@@ -1,0 +1,50 @@
+[
+  {
+    "userId": "35123456",
+    "nombre": "Autorización de Tomografía",
+    "fecha": "10/11/2025",
+    "estado": "Aprobado"
+  },
+  {
+    "userId": "35123456",
+    "nombre": "Reintegro por Consulta Odontológica",
+    "fecha": "15/11/2025",
+    "estado": "Pendiente"
+  },
+  {
+    "userId": "40987654",
+    "nombre": "Cobertura de Medicamentos Oncológicos",
+    "fecha": "20/11/2025",
+    "estado": "Rechazado"
+  },
+  {
+    "userId": "35123456",
+    "nombre": "Solicitud de Silla de Ruedas",
+    "fecha": "01/11/2025",
+    "estado": "Aprobado"
+  },
+  {
+    "userId": "30111222",
+    "nombre": "Reintegro por Sesión de Kinesiología",
+    "fecha": "18/11/2025",
+    "estado": "Aprobado"
+  },
+  {
+    "userId": "42333444",
+    "nombre": "Autorización de Resonancia Magnética",
+    "fecha": "20/07/2024",
+    "estado": "Pendiente"
+  },
+  {
+    "userId": "35123456",
+    "nombre": "Pedido de Credencial Física",
+    "fecha": "11/05/2024",
+    "estado": "Aprobado"
+  }
+]
+
+
+
+
+
+

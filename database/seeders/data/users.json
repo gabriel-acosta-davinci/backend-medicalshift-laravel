@@ -1,0 +1,104 @@
+[
+  {
+    "id": "35123456",
+    "fullName": "Gabriel Acosta",
+    "documentNumber": "35123456",
+    "phoneNumber": "+54 221 555-0101",
+    "email": "gabriel.acosta@example.com",
+    "plan": "Plan Platino",
+    "associateNumber": "123456-01",
+    "cbu": "0170432120000001234567",
+    "dateOfBirth": "1990-05-15T00:00:00Z",
+    "maritalStatus": "Concubino/a",
+    "address": {
+      "street": "Av. 7",
+      "number": 123,
+      "floor": "3",
+      "apartment": "A",
+      "city": "Mar del Plata",
+      "province": "Buenos Aires"
+    }
+  },
+  {
+    "id": "40987654",
+    "fullName": "Arciel Acosta",
+    "documentNumber": "40987654",
+    "phoneNumber": "+54 11 555-0102",
+    "email": "arciel.acosta@example.com",
+    "plan": "Plan Bronce",
+    "associateNumber": "654321-02",
+    "cbu": "0720123488000009876543",
+    "dateOfBirth": "1995-11-20T00:00:00Z",
+    "maritalStatus": "Concubino/a",
+    "address": {
+      "street": "Av. Corrientes",
+      "number": 1234,
+      "floor": "10",
+      "apartment": "B",
+      "city": "La Plata",
+      "province": "Buenos Aires"
+    }
+  },
+  {
+    "id": "30111222",
+    "fullName": "Carlos Gómez",
+    "documentNumber": "30111222",
+    "phoneNumber": "+54 351 555-0103",
+    "email": "carlos.gomez@example.com",
+    "plan": "Plan Plata",
+    "associateNumber": "789012-03",
+    "cbu": "3300599520000005432101",
+    "dateOfBirth": "1985-02-10T00:00:00Z",
+    "maritalStatus": "Casado/a",
+    "address": {
+      "street": "Bv. San Juan",
+      "number": 550,
+      "city": "Córdoba",
+      "province": "Córdoba"
+    }
+  },
+  {
+    "id": "42333444",
+    "fullName": "Valentina Rodríguez",
+    "documentNumber": "42333444",
+    "phoneNumber": "+54 223 555-0104",
+    "email": "valentina.r@example.com",
+    "plan": "Plan Oro",
+    "associateNumber": "345678-04",
+    "cbu": "0140000701100001231234",
+    "dateOfBirth": "1998-08-30T00:00:00Z",
+    "maritalStatus": "Soltero/a",
+    "address": {
+      "street": "Av. Colón",
+      "number": 2100,
+      "floor": "5",
+      "apartment": "C",
+      "city": "Mar del Plata",
+      "province": "Buenos Aires"
+    }
+  },
+  {
+    "id": "38555666",
+    "fullName": "Mateo Fernández",
+    "documentNumber": "38555666",
+    "phoneNumber": "+54 221 555-0105",
+    "email": "mateo.fernandez@example.com",
+    "plan": "Plan Bronce",
+    "associateNumber": "901234-05",
+    "cbu": "0110599520000005432101",
+    "dateOfBirth": "1993-12-01T00:00:00Z",
+    "maritalStatus": "Casado/a",
+    "address": {
+      "street": "Calle 45",
+      "number": 810,
+      "city": "La Plata",
+      "province": "Buenos Aires"
+    }
+  }
+]
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+[
+  {
+    "userId": "35123456",
+    "periodo": "Noviembre 2025",
+    "monto": 75000.00,
+    "estado": "Pendiente"
+  },
+  {
+    "userId": "35123456",
+    "periodo": "Octubre 2025",
+    "monto": 72500.00,
+    "estado": "Pagada"
+  },
+  {
+    "userId": "35123456",
+    "periodo": "Septiembre 2025",
+    "monto": 72500.00,
+    "estado": "Pagada"
+  },
+  {
+    "userId": "40987654",
+    "periodo": "Noviembre 2025",
+    "monto": 55000.00,
+    "estado": "Pendiente"
+  },
+  {
+    "userId": "40987654",
+    "periodo": "Octubre 2025",
+    "monto": 53000.00,
+    "estado": "Pagada"
+  },
+  {
+    "userId": "40987654",
+    "periodo": "Septiembre 2025",
+    "monto": 53000.00,
+    "estado": "Pagada"
+  }
+]
+
+
+
+
+
+
