@@ -38,3 +38,6 @@ SERVER_PID=$!
 # Esperar a que ambos procesos terminen
 wait
 
+
+
+

@@ -25,3 +25,6 @@ taskkill /FI "WINDOWTITLE eq Token Regenerator*" /T /F >nul 2>&1
 echo.
 echo Servidor y regenerador de tokens detenidos.
 
+
+
+

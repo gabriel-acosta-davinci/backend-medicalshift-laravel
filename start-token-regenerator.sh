@@ -6,3 +6,6 @@ echo "Presiona Ctrl+C para detener"
 echo ""
 php regenerate-tokens-daemon.php
 
+
+
+
